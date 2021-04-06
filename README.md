@@ -1,5 +1,5 @@
 # Classificador Naive Bayes
-[Prof. Maria Kelly](www.google.com.br), [Insper](https://github.com/Insper), 2021.
+[Prof. Maria Kelly](https://github.com/KellyVene), [Insper](https://github.com/Insper), 2021.
 
 ### Classificador Automático de Sentimento
 > Você foi contratado por uma empresa parar analisar como os clientes estão reagindo a um determinado produto no Twitter. A empresa deseja que você: crie um programa que selecione algumas mensagens disponíveis no Twitter, as quais mencionam esse particular produto; e classifique esses tweets como "relevante" ou "irrelevante", pelo menos.
