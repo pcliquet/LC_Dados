@@ -39,3 +39,17 @@ Contudo, nós poderíamos auxiliar uma empresa desenvolvedora de um produto a id
 RASCHKA, Sebastian. **Naive Bayes and Text Classification I**: Introduction and Theory. 04 out. 2014. Disponível em: https://arxiv.org/pdf/1410.5329.pdf. Acesso em: 09 abr. 2021.
 
 **Neural Networks - What are they and why do they matter? | SAS**. 2021. Disponível em: https://www.sas.com/en_us/insights/analytics/neural-networks.html. Acesso em: 09 abr. 2021.
+
+### Feedback
+
+- Limpou: \n, :, "", ', (, ), etc SEM remover emojis;
+- Implementou outras limpezas e transformações que não afetem a qualidade da informação contida nos tweets;
+- Corrigiu separação de espaços entre palavras e emojis ou entre emojis e emojis;
+- Foram cometidas imprecisões ao aplicarem a suavização de Laplace (Smoothing);
+* Função "P_palavra" utiliza "len(dicio)" que representa a quantidade de palavras sem repetição dentro de uma categoria (Relevante ou Irrelevante). Porém, era esperado que utilização a quantidade de palavras sem repetição da base de treinamento;
+- Explicou porquê não pode usar o próprio classificador para gerar mais amostras de treinamento;
+- Propôs diferentes cenários para Naïve Bayes fora do contexto do projeto;
+- Sugeriu e explicou melhorias reais com indicações concretas de como implementar;
+- Fez o item 6."Qualidade do Classificador a partir de novas separações dos tweets entre Treinamento e Teste"
+
+Conceito: **A+**
